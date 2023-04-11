@@ -1,0 +1,10 @@
+requests
+datetime
+date 
+timedelta
+openpyxl
+os
+yadisk
+shutil
+telebot
+pydrive
